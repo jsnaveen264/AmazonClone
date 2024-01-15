@@ -22,3 +22,11 @@
     height: 50px;
     width: 100%;
 }
+
+.border {
+    border: 2px solid transprent; 
+}
+
+.border:hover {
+    border: 2px solid white;
+}
